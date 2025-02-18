@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ElliotKoch/Leet_Code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ElliotKoch/Leet_Code/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
