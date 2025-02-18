@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
