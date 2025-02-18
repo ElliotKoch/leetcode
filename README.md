@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ElliotKoch/Leet_Code/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ElliotKoch/Leet_Code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
