@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ElliotKoch/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ElliotKoch/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ElliotKoch/Leet_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
