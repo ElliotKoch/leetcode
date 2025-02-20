@@ -10,12 +10,14 @@
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ElliotKoch/Leet_Code/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
+| [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0020-valid-parentheses](https://github.com/ElliotKoch/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/ElliotKoch/Leet_Code/tree/master/1894-merge-strings-alternately) |
+| [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +91,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
