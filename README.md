@@ -70,4 +70,16 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ElliotKoch/Leet_Code/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ElliotKoch/Leet_Code/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ElliotKoch/Leet_Code/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
