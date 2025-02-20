@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
+| [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
