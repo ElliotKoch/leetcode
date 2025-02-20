@@ -28,6 +28,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
+| [1894-merge-strings-alternately](https://github.com/ElliotKoch/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/ElliotKoch/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ElliotKoch/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/ElliotKoch/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
