@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ElliotKoch/Leet_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
