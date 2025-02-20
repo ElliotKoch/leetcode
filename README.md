@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ElliotKoch/Leet_Code/tree/master/0969-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
