@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ElliotKoch/Leet_Code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/ElliotKoch/Leet_Code/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ElliotKoch/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/ElliotKoch/Leet_Code/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ElliotKoch/Leet_Code/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ElliotKoch/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
