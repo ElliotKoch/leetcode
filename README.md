@@ -59,6 +59,7 @@
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/ElliotKoch/Leet_Code/tree/master/1894-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
+| [3379-score-of-a-string](https://github.com/ElliotKoch/Leet_Code/tree/master/3379-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
