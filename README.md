@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/ElliotKoch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ElliotKoch/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0978-valid-mountain-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0978-valid-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ElliotKoch/Leet_Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ElliotKoch/Leet_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
