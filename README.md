@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ElliotKoch/Leet_Code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ElliotKoch/Leet_Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
