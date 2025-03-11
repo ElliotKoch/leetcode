@@ -4,10 +4,8 @@ class Solution:
         s_no_punct = ""
         # Filter s with isalpha to retrieve only alphabetical and number characters
         for c in s:
-            if c.isalpha():
+            if c.isalpha() or (ord(c) > 47 and ord(c) < 58):
                 s_no_punct += c.lower()
-            elif ord(c) > 47 and ord(c) < 58:
-                s_no_punct += c
         # Check that it is a palindrome
         if s_no_punct == s_no_punct[::-1]:
             return True
