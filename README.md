@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ElliotKoch/Leet_Code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ElliotKoch/Leet_Code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ElliotKoch/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/ElliotKoch/Leet_Code/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ElliotKoch/Leet_Code/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ElliotKoch/Leet_Code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ElliotKoch/Leet_Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ElliotKoch/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ElliotKoch/Leet_Code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
