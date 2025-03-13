@@ -18,6 +18,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ElliotKoch/Leet_Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ElliotKoch/Leet_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ElliotKoch/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ElliotKoch/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ElliotKoch/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ElliotKoch/Leet_Code/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/ElliotKoch/Leet_Code/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ElliotKoch/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2107-find-unique-binary-string](https://github.com/ElliotKoch/Leet_Code/tree/master/2107-find-unique-binary-string) |
 | [3379-score-of-a-string](https://github.com/ElliotKoch/Leet_Code/tree/master/3379-score-of-a-string) |
 ## Counting
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/ElliotKoch/Leet_Code/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ElliotKoch/Leet_Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Design
 |  |
 | ------- |
